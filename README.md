@@ -26,11 +26,11 @@ Responsável também por versionamento de configurações.
   Aplicação para acompanhamento por parte do cliente de suas ordens de serviços com a empresa contratante.\
   Repositório: <https://github.com/tsortbr/>
   
-1. Blog
+1. Blog\
   Blog para compartilhamentos de boas práticas de uso do sistema, relatos, tutoriais e etc.\
   Repositório: <https://github.com/tsortbr/>
   
-1. Redes Sociais
+1. Redes Sociais\
   Apresentação do sistema nas redes sociais para captação de clientes.\
 
 ### Extras
